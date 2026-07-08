@@ -57,7 +57,7 @@ const Achievements = () => {
     { target: "5", suffix: "+", label: "Projects Completed", icon: FaBriefcase, isFloat: false },
     { target: "4", suffix: "", label: "Certificates Earned", icon: FaAward, isFloat: false },
     { target: "500", suffix: "+", label: "Coding Problems Solved", icon: FaCode, isFloat: false },
-    { target: "9.12", suffix: "/10", label: "Current CGPA", icon: FaGraduationCap, isFloat: true }
+    { target: "8.49", suffix: "/10", label: "Current CGPA", icon: FaGraduationCap, isFloat: true }
   ];
 
   return (

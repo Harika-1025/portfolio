@@ -6,13 +6,13 @@ import { FaExternalLinkAlt, FaTerminal, FaLinkedin } from 'react-icons/fa';
 const profiles = [
   {
     name: "GitHub",
-    username: "@harikacherukupally",
-    url: "https://github.com/harikacherukupally",
+    username: "@Harika-1025",
+    url: "https://github.com/Harika-1025",
     icon: SiGithub,
     color: "hover:border-slate-800 dark:hover:border-white hover:text-slate-900 dark:hover:text-white",
     iconColor: "text-slate-800 dark:text-slate-200",
     bgGlow: "from-slate-500/5 to-transparent",
-    stats: "24 Repositories • 12 Followers"
+    stats: "Repositories & Contributions"
   },
   {
     name: "LinkedIn",

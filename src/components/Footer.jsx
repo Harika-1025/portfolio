@@ -55,7 +55,7 @@ const Footer = () => {
           {/* Social icons */}
           <div className="flex items-center gap-4">
             <a
-              href="https://github.com/harikacherukupally"
+              href="https://github.com/Harika-1025"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 rounded-xl border border-slate-200 dark:border-slate-800 text-slate-500 hover:text-brand-cyan dark:hover:text-brand-cyan hover:bg-white dark:hover:bg-slate-900 transition-all duration-200"
@@ -64,7 +64,7 @@ const Footer = () => {
               <FaGithub className="w-4 h-4" />
             </a>
             <a
-              href="https://linkedin.com/in/harikacherukupally"
+              href="https://linkedin.com/in/cherukupally-harika"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 rounded-xl border border-slate-200 dark:border-slate-800 text-slate-500 hover:text-brand-blue dark:hover:text-brand-blue hover:bg-white dark:hover:bg-slate-900 transition-all duration-200"
@@ -73,7 +73,7 @@ const Footer = () => {
               <FaLinkedin className="w-4 h-4" />
             </a>
             <a
-              href="mailto:harikacherukupally@gmail.com"
+              href="mailto:cherukupallyharika06@gmail.com"
               className="p-3 rounded-xl border border-slate-200 dark:border-slate-800 text-slate-500 hover:text-brand-purple dark:hover:text-brand-purple hover:bg-white dark:hover:bg-slate-900 transition-all duration-200"
               aria-label="Email"
             >

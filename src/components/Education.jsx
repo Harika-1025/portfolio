@@ -6,42 +6,42 @@ import { HiOutlineCalendarDays, HiOutlineMapPin } from 'react-icons/hi2';
 const timelineData = [
   {
     type: "degree",
-    title: "B.Tech in Computer Science Engineering",
-    institution: "Engineering College / University Campus",
-    period: "2022 - 2026",
-    location: "India",
+    title: "B.Tech in Computer Science and Engineering",
+    institution: "Narsimha Reddy Engineering College",
+    period: "2023 - Present",
+    location: "Hyderabad, India",
     icon: FaGraduationCap,
     color: "from-brand-blue to-indigo-650",
     details: [
-      "Specialization in software engineering, intelligent systems, and database design.",
-      "Key coursework: Data Structures, Algorithms, DBMS, Operating Systems, Computer Networks, Machine Learning.",
-      "Active CGPA: 9.12/10"
+      "Aspiring Computer Science Engineer learning core software paradigms.",
+      "Key subjects: Spring Boot, Spring MVC, REST APIs, Databases (MySQL, MongoDB), and Machine Learning foundations.",
+      "Academic Grade - CGPA: 8.49/10"
     ]
   },
   {
     type: "intermediate",
     title: "Intermediate MPC (Maths, Physics, Chemistry)",
-    institution: "Junior College Academy",
-    period: "2020 - 2022",
+    institution: "SR Junior College",
+    period: "2021 - 2023",
     location: "India",
     icon: FaSchool,
     color: "from-brand-purple to-pink-650",
     details: [
-      "Concentration in advanced Mathematics, Physics, and Chemistry.",
-      "Laid mathematical foundation for machine learning algorithms and engineering logic."
+      "Deep dive into science and mathematical principles.",
+      "Academic Score - CGPA: 94.0%"
     ]
   },
   {
     type: "ssc",
     title: "SSC (Secondary School Certificate)",
-    institution: "High School Academy",
-    period: "2020 Graduated",
+    institution: "SR Prime High School",
+    period: "2021",
     location: "India",
     icon: FaSchool,
     color: "from-brand-cyan to-teal-600",
     details: [
-      "Completed secondary education with honors.",
-      "Participated in science fairs and academic debates."
+      "Completed secondary education with perfect score.",
+      "Academic Score - CGPA: 10.0/10"
     ]
   }
 ];

@@ -93,7 +93,7 @@ const Contact = () => {
       setStatus({ 
         loading: false, 
         success: false, 
-        error: err.text || 'Something went wrong. Please email directly at harikacherukupally@gmail.com'
+        error: err.text || 'Something went wrong. Please email directly at cherukupallyharika06@gmail.com'
       });
     });
   };
@@ -158,10 +158,10 @@ const Contact = () => {
                   <div>
                     <h4 className="text-[10px] font-bold text-slate-400 dark:text-slate-500 font-mono uppercase tracking-widest">Email</h4>
                     <a
-                      href="mailto:harikacherukupally@gmail.com"
+                      href="mailto:cherukupallyharika06@gmail.com"
                       className="text-base font-black text-slate-700 dark:text-slate-200 hover:text-brand-blue dark:hover:text-brand-cyan transition-colors"
                     >
-                      harikacherukupally@gmail.com
+                      cherukupallyharika06@gmail.com
                     </a>
                   </div>
                 </div>
@@ -174,10 +174,10 @@ const Contact = () => {
                   <div>
                     <h4 className="text-[10px] font-bold text-slate-400 dark:text-slate-500 font-mono uppercase tracking-widest">Phone</h4>
                     <a
-                      href="tel:+910000000000"
+                      href="tel:9391918303"
                       className="text-base font-black text-slate-700 dark:text-slate-200 hover:text-brand-blue dark:hover:text-brand-cyan transition-colors"
                     >
-                      +91 98765 43210
+                      +91 93919 18303
                     </a>
                   </div>
                 </div>
@@ -204,7 +204,7 @@ const Contact = () => {
               </h3>
               <div className="flex items-center gap-4">
                 <a
-                  href="https://github.com/harikacherukupally"
+                  href="https://github.com/Harika-1025"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-4 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-slate-650 dark:text-slate-400 hover:text-brand-cyan dark:hover:text-brand-cyan hover:shadow-lg transition-all duration-200 cursor-pointer"
@@ -213,7 +213,7 @@ const Contact = () => {
                   <FaGithub className="w-6 h-6" />
                 </a>
                 <a
-                  href="https://linkedin.com/in/harikacherukupally"
+                  href="https://linkedin.com/in/cherukupally-harika"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-4 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-slate-650 dark:text-slate-400 hover:text-brand-blue dark:hover:text-brand-blue hover:shadow-lg transition-all duration-200 cursor-pointer"

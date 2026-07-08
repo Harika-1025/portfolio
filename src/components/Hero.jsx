@@ -174,7 +174,7 @@ const Hero = () => {
             className="flex items-center gap-4 text-slate-600 dark:text-slate-400"
           >
             <a
-              href="https://github.com/harikacherukupally"
+              href="https://github.com/Harika-1025"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 rounded-full border border-slate-200 dark:border-slate-800 hover:bg-slate-100 dark:hover:bg-slate-800 hover:text-slate-900 dark:hover:text-white transition-all duration-200"
@@ -183,7 +183,7 @@ const Hero = () => {
               <FaGithub className="w-5 h-5" />
             </a>
             <a
-              href="https://linkedin.com/in/harikacherukupally"
+              href="https://linkedin.com/in/cherukupally-harika"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 rounded-full border border-slate-200 dark:border-slate-800 hover:bg-slate-100 dark:hover:bg-slate-800 hover:text-brand-blue dark:hover:text-brand-blue transition-all duration-200"

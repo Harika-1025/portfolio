@@ -16,7 +16,7 @@ const projects = [
       "Model training (Random Forest, SVM, Logistic Regression)",
       "Evaluation using precision, recall, and ROC-AUC curves"
     ],
-    github: "https://github.com/harikacherukupally/loan-approval-prediction",
+    github: "https://github.com/Harika-1025/loan-approval-prediction",
     demo: "#",
     // Interactive CSS Mockup representing a prediction chart
     mockup: (
@@ -52,7 +52,7 @@ const projects = [
       "Comprehensive CRUD operations with MySQL backend",
       "Auto-generated logs and history download features"
     ],
-    github: "https://github.com/harikacherukupally/visitor-tracker",
+    github: "https://github.com/Harika-1025/visitor-tracker",
     demo: "#",
     mockup: (
       <div className="w-full h-full bg-slate-950 p-4 flex flex-col justify-between text-[10px] font-mono text-cyan-400">
@@ -89,7 +89,7 @@ const projects = [
       "Progress dashboards mapping metrics per skill category",
       "Integrations with external evaluators and profiling API keys"
     ],
-    github: "https://github.com/harikacherukupally/smart-coding-practice",
+    github: "https://github.com/Harika-1025/smart-coding-practice",
     demo: "#",
     mockup: (
       <div className="w-full h-full bg-slate-950 p-4 flex flex-col justify-between text-[9px] font-mono text-purple-400">
@@ -122,7 +122,7 @@ const projects = [
       "Interactive habits checker board with daily scores",
       "Visual chart graphing trends and target tracking"
     ],
-    github: "https://github.com/harikacherukupally/ecotrack",
+    github: "https://github.com/Harika-1025/ecotrack",
     demo: "#",
     mockup: (
       <div className="w-full h-full bg-slate-950 p-4 flex flex-col justify-between text-[10px] font-mono text-emerald-400">
@@ -158,7 +158,7 @@ const projects = [
       "Automated email notifications and event updates",
       "Administrator controls for ticket verification"
     ],
-    github: "https://github.com/harikacherukupally/event-management",
+    github: "https://github.com/Harika-1025/event-management",
     demo: "#",
     mockup: (
       <div className="w-full h-full bg-slate-950 p-4 flex flex-col justify-between text-[10px] font-mono text-blue-400">
