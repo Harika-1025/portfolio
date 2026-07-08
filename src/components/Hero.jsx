@@ -183,7 +183,7 @@ const Hero = () => {
               <FaGithub className="w-5 h-5" />
             </a>
             <a
-              href="https://linkedin.com/in/cherukupally-harika"
+              href="https://www.linkedin.com/in/harika-cherukupally-5a1bb4376"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 rounded-full border border-slate-200 dark:border-slate-800 hover:bg-slate-100 dark:hover:bg-slate-800 hover:text-brand-blue dark:hover:text-brand-blue transition-all duration-200"

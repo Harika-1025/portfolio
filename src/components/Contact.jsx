@@ -213,7 +213,7 @@ const Contact = () => {
                   <FaGithub className="w-6 h-6" />
                 </a>
                 <a
-                  href="https://linkedin.com/in/cherukupally-harika"
+                  href="https://www.linkedin.com/in/harika-cherukupally-5a1bb4376"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-4 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-slate-650 dark:text-slate-400 hover:text-brand-blue dark:hover:text-brand-blue hover:shadow-lg transition-all duration-200 cursor-pointer"

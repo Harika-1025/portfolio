@@ -64,7 +64,7 @@ const Footer = () => {
               <FaGithub className="w-4 h-4" />
             </a>
             <a
-              href="https://linkedin.com/in/cherukupally-harika"
+              href="https://www.linkedin.com/in/harika-cherukupally-5a1bb4376"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 rounded-xl border border-slate-200 dark:border-slate-800 text-slate-500 hover:text-brand-blue dark:hover:text-brand-blue hover:bg-white dark:hover:bg-slate-900 transition-all duration-200"

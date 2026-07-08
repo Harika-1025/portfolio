@@ -16,28 +16,28 @@ const profiles = [
   },
   {
     name: "LinkedIn",
-    username: "Cherukupally Harika",
-    url: "https://linkedin.com/in/harikacherukupally",
+    username: "@harika-cherukupally-5a1bb4376",
+    url: "https://www.linkedin.com/in/harika-cherukupally-5a1bb4376",
     icon: FaLinkedin,
     color: "hover:border-blue-600 hover:text-blue-600",
     iconColor: "text-blue-600",
     bgGlow: "from-blue-500/5 to-transparent",
-    stats: "500+ Professional Connections"
+    stats: "Professional Networking & Connections"
   },
   {
     name: "LeetCode",
-    username: "harika_cherukupally",
-    url: "https://leetcode.com/u/harika_cherukupally/",
+    username: "@harika_573",
+    url: "https://leetcode.com/u/harika_573/",
     icon: SiLeetcode,
     color: "hover:border-amber-500 hover:text-amber-500",
     iconColor: "text-amber-500",
     bgGlow: "from-amber-500/5 to-transparent",
-    stats: "DSA Practice • Medium/Easy Track"
+    stats: "Data Structures & Algorithms Track"
   },
   {
     name: "HackerRank",
-    username: "@harika_cherukupally",
-    url: "https://www.hackerrank.com/profile/harika_cherukupally",
+    username: "@23x01a0573",
+    url: "https://www.hackerrank.com/profile/23x01a0573",
     icon: SiHackerrank,
     color: "hover:border-emerald-500 hover:text-emerald-500",
     iconColor: "text-emerald-500",
@@ -46,8 +46,8 @@ const profiles = [
   },
   {
     name: "CodeChef",
-    username: "@harika_cp",
-    url: "https://www.codechef.com/users/harika_cp",
+    username: "@harika_573",
+    url: "https://www.codechef.com/users/harika_573",
     icon: SiCodechef,
     color: "hover:border-amber-700 hover:text-amber-700",
     iconColor: "text-amber-800 dark:text-amber-600",
