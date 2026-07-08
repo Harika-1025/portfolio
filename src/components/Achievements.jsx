@@ -54,7 +54,7 @@ const CounterItem = ({ target, suffix = '', label, icon: Icon, isFloat = false }
 
 const Achievements = () => {
   const stats = [
-    { target: "5", suffix: "+", label: "Projects Completed", icon: FaBriefcase, isFloat: false },
+    { target: "3", suffix: "", label: "Projects Completed", icon: FaBriefcase, isFloat: false },
     { target: "4", suffix: "", label: "Certificates Earned", icon: FaAward, isFloat: false },
     { target: "500", suffix: "+", label: "Coding Problems Solved", icon: FaCode, isFloat: false },
     { target: "8.49", suffix: "/10", label: "Current CGPA", icon: FaGraduationCap, isFloat: true }

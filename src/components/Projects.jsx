@@ -109,85 +109,10 @@ const projects = [
         </div>
       </div>
     )
-  },
-  {
-    id: 4,
-    title: "EcoTrack Daily Sustainability Logger",
-    category: "Frontend",
-    description: "A tracking dashboard built to help individuals monitor their environmental footprint by logging routines, calculating metrics, and visualising progress.",
-    technologies: ["React", "Tailwind CSS", "LocalStorage", "Chart.js"],
-    features: [
-      "Real-time carbon footprint calculators",
-      "Persistent historical data logging via browser storage",
-      "Interactive habits checker board with daily scores",
-      "Visual chart graphing trends and target tracking"
-    ],
-    github: "https://github.com/Harika-1025/ecotrack",
-    demo: "#",
-    mockup: (
-      <div className="w-full h-full bg-slate-950 p-4 flex flex-col justify-between text-[10px] font-mono text-emerald-400">
-        <div className="flex items-center justify-between border-b border-emerald-500/20 pb-2">
-          <span>[ECOTRACK SUMMARY]</span>
-          <span>GOAL: -15%</span>
-        </div>
-        <div className="flex-grow flex items-center justify-center relative my-2">
-          {/* Circular progress meter */}
-          <div className="w-20 h-20 rounded-full border-4 border-emerald-500/20 border-t-emerald-400 flex items-center justify-center animate-spin-slow">
-            <div className="text-white text-xs font-bold text-center font-sans">
-              <span className="block text-[8px] text-slate-400 font-mono">SAVED</span>
-              84 kg
-            </div>
-          </div>
-        </div>
-        <div className="flex justify-between text-[8px] text-slate-400 border-t border-emerald-500/20 pt-2">
-          <span>CO2 Offset: 84kg</span>
-          <span>Trees: 4.2</span>
-        </div>
-      </div>
-    )
-  },
-  {
-    id: 5,
-    title: "College Technical Event Management System",
-    category: "Java Full Stack",
-    description: "A scheduler and management hub enabling coordinators to advertise workshops, handle participant registration lists, and trigger ticket approvals.",
-    technologies: ["Java", "JSP", "Servlets", "JDBC", "MySQL", "Tailwind CSS"],
-    features: [
-      "User registrations and event coordinator dashboards",
-      "Dynamic scheduler maps and seat allocation counters",
-      "Automated email notifications and event updates",
-      "Administrator controls for ticket verification"
-    ],
-    github: "https://github.com/Harika-1025/event-management",
-    demo: "#",
-    mockup: (
-      <div className="w-full h-full bg-slate-950 p-4 flex flex-col justify-between text-[10px] font-mono text-blue-400">
-        <div className="flex items-center justify-between border-b border-blue-500/20 pb-2">
-          <span>[EVENT PLANNER]</span>
-          <span>SEATS: 84/100</span>
-        </div>
-        <div className="space-y-1.5 flex-grow pt-3">
-          <div className="bg-blue-950/40 p-1.5 rounded border border-blue-900 flex items-center gap-2">
-            <FaCalendarAlt className="text-brand-blue" />
-            <div className="text-[8px] text-slate-300">
-              <div className="font-bold">ML Hackathon 2026</div>
-              <div>Starts in 2 days</div>
-            </div>
-          </div>
-          <div className="bg-blue-950/40 p-1.5 rounded border border-blue-900 flex items-center gap-2">
-            <FaCode className="text-brand-purple" />
-            <div className="text-[8px] text-slate-300">
-              <div className="font-bold">Spring Dev Workshop</div>
-              <div>Registrations open</div>
-            </div>
-          </div>
-        </div>
-      </div>
-    )
   }
 ];
 
-const categories = ["All", "AI & ML", "Java Full Stack", "Frontend"];
+const categories = ["All", "AI & ML", "Java Full Stack"];
 
 const containerVariants = {
   hidden: { opacity: 0 },
